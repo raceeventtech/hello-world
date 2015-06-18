@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is only a test.  Do not pass go.
+=======
+This is a test. 
+This is only a test.  
+>>>>>>> parent of 6cf47d2... Revert "test"
